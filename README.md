@@ -9,6 +9,8 @@ I don't know why, but my button to go to the home page and see the list of the a
 
 I was trying to have a possibility to download files to the website, but the page would give me exception that there is no such name for the page, when I pressed on it. So I deleted the page completly. 
 
+I couldn't add admin capabilities to the website.
+
 My biggest challenge is not to give up and go back to Mother Russia, where my home boy Vladimir is building dictatorship just like granpa Stalin wished! Miss my bear Dmitriy and his lovely balalaika sounds in the morning. 
 
 Jokes aside I know this website is not very outstanding project, however I tried and spend around 30 hours working on it and I hope I would not need to take this class again, however I enjoy being in your classes. I wish you great summer, please pass me! 
