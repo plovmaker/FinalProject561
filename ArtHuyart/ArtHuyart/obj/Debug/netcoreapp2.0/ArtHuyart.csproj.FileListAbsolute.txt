@@ -1,0 +1,11 @@
+C:\Users\Sulik\source\repos\ArtHuyart\ArtHuyart\bin\Debug\netcoreapp2.0\ArtHuyart.deps.json
+C:\Users\Sulik\source\repos\ArtHuyart\ArtHuyart\bin\Debug\netcoreapp2.0\ArtHuyart.runtimeconfig.json
+C:\Users\Sulik\source\repos\ArtHuyart\ArtHuyart\bin\Debug\netcoreapp2.0\ArtHuyart.runtimeconfig.dev.json
+C:\Users\Sulik\source\repos\ArtHuyart\ArtHuyart\bin\Debug\netcoreapp2.0\ArtHuyart.dll
+C:\Users\Sulik\source\repos\ArtHuyart\ArtHuyart\bin\Debug\netcoreapp2.0\ArtHuyart.pdb
+C:\Users\Sulik\source\repos\ArtHuyart\ArtHuyart\obj\Debug\netcoreapp2.0\ArtHuyart.csprojAssemblyReference.cache
+C:\Users\Sulik\source\repos\ArtHuyart\ArtHuyart\obj\Debug\netcoreapp2.0\ArtHuyart.csproj.CoreCompileInputs.cache
+C:\Users\Sulik\source\repos\ArtHuyart\ArtHuyart\obj\Debug\netcoreapp2.0\ArtHuyart.AssemblyInfoInputs.cache
+C:\Users\Sulik\source\repos\ArtHuyart\ArtHuyart\obj\Debug\netcoreapp2.0\ArtHuyart.AssemblyInfo.cs
+C:\Users\Sulik\source\repos\ArtHuyart\ArtHuyart\obj\Debug\netcoreapp2.0\ArtHuyart.dll
+C:\Users\Sulik\source\repos\ArtHuyart\ArtHuyart\obj\Debug\netcoreapp2.0\ArtHuyart.pdb
